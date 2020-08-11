@@ -5,7 +5,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um estudandte focado nas melhores tecnologias para o front e back-end :computer:
+Sou um estudante focado nas melhores tecnologias para o front e back-end :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Dígitro**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
