@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/thiagorussi/tthiagorussi/blob/master/2 - NLW #02 - 2560x1080.jpg">
 
 
 # Thiago Russi
