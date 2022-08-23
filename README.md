@@ -1,6 +1,5 @@
-# Thiago Russi
+## Oi, meu nome é Thiago Russi 👋
 
-## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um estudante focado nas melhores tecnologias para o front e back-end :computer:
 
