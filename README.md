@@ -1,6 +1,6 @@
 ## Oi, meu nome é Thiago Russi 👋
 
-Sou apaixonado por resolver problemas utilizando a programação.
+Aficionado por resolver problemas utilizando a programação.
 Sou um estudante focado nas melhores tecnologias para o front e back-end :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Dígitro**
