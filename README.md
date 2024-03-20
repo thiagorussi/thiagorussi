@@ -1,8 +1,5 @@
 ## Oi, meu nome é Thiago Russi 👋
 
-Aficionado por resolver problemas utilizando a programação.
-Sou um estudante focado nas melhores tecnologias para o front e back-end :computer:
-
  :rocket:  &nbsp; Estou trabalhando na **Dígitro**
  <br/> 🖤 &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :computer: &nbsp; Minhas stacks: **ReactJs, JavaScript, HTML, CSS, SQL, Node.JS**
